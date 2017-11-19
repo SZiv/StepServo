@@ -148,7 +148,6 @@
 <hole x="55.5625" y="30.48" drill="3.2"/>
 <hole x="55.5625" y="67.6275" drill="3.2"/>
 <wire x1="58.42" y1="59.69" x2="58.42" y2="49.53" width="0.3048" layer="21"/>
-<rectangle x1="55.88" y1="49.53" x2="58.42" y2="52.07" layer="21" rot="R180"/>
 <text x="29.21" y="45.72" size="1.9304" layer="21" font="vector" rot="R90">Arduino</text>
 <text x="50.673" y="69.342" size="1.9304" layer="21" font="vector" rot="R180">L298N</text>
 <text x="51.435" y="66.929" size="1.27" layer="21" font="vector" rot="R180">Goes Here</text>
@@ -201,9 +200,10 @@ GOES HERE</text>
 <wire x1="58.42" y1="41.91" x2="51.562" y2="41.91" width="0.4064" layer="22"/>
 <wire x1="51.562" y1="41.91" x2="49.53" y2="41.91" width="0.4064" layer="22"/>
 <wire x1="51.562" y1="59.436" x2="51.562" y2="41.91" width="0.4064" layer="22"/>
-<text x="48.3235" y="54.737" size="1.9304" layer="21" font="vector" rot="R270">V1.0</text>
+<text x="21.5265" y="58.293" size="1.9304" layer="21" font="vector" rot="R90">V1.0</text>
 <text x="27.559" y="68.199" size="1.27" layer="22" font="vector" rot="MR270">http://reprap.org/wiki/StepServo</text>
 <text x="57.277" y="63.5" size="0.8128" layer="21" font="vector" rot="R270">PWM</text>
+<text x="44.45" y="59.817" size="0.8128" layer="21" font="vector">R1  200R</text>
 </plain>
 <libraries>
 <library name="adafruit">
